@@ -1,0 +1,70 @@
+Privacy Policy and Policy Statement for “No Cheating”
+
+Effective Date: October 20, 2025
+
+1. Overview
+
+   “No Cheating” is a no-subscription, offline, in-classroom quiz management application designed to promote honesty, integrity, and fairness during quizzes and tests. It enables teachers to create, manage, and administer paperless quizzes even in areas with limited or no internet connectivity.
+
+    The app uses Bluetooth, Wi-Fi (Nearby Devices), and Location Discovery technologies solely for secure offline sharing and synchronization of quiz data between teacher and student devices.
+
+    “No Cheating” only requires in-app purchase in accessing the 'Teacher' features and functionalities and does not require an internet connection for its core features and contains no ads, no subscriptions, and no in-app purchases for 'Students'.
+
+2. Information We Collect
+
+   “No Cheating” is designed with privacy in mind. The app:
+
+   * Does not collect, store, or transmit personal data such as names, emails, phone numbers, or addresses.
+   * Does not require user registration or online account creation.
+   * Uses device permissions (Bluetooth, Wi-Fi, and Location) only locally, to enable offline communication and nearby device discovery during quizzes.
+
+    Any quiz data, results, and analytics are stored locally on the user’s device and remain under the control of the teacher or user.
+
+3. Permissions and Their Purpose
+
+   To function properly, “No Cheating” requests the following permissions:
+
+   Permission				                        Purpose												                                                                  Data Usage
+   Location (Approximate or Precise)	      Enables wireless discovery of nearby devices for secure offline sharing and quiz syncing.	      Used locally only; 	not stored or transmitted.
+   Nearby Devices (Wi-Fi & Bluetooth)	      Allows offline device-to-device communication between teachers and students.			              Used only during quiz sessions; no data sent online.
+   Storage / File Access (if applicable)	  Enables export and saving of quiz results or reports in Excel format.				                    Files are stored locally on device only.
+
+4. Data Storage and Security
+
+   * All quiz data, results, and related files are stored locally on the device.
+   * The app does not use external servers or cloud services.
+   * Users may manually export quiz results to Excel for reporting purposes.
+
+     We implement reasonable technical measures to maintain data security and protect against unauthorized access.
+
+5. Children’s Privacy
+
+   “No Cheating” can be safely used by teachers and students in classroom environments. The app does not knowingly collect any personal information from children or students.
+
+6. Offline Use
+
+   The core functionality of “No Cheating” operates completely offline.
+   Internet connectivity is not required for creating, conducting, or evaluating quizzes.
+
+7. Data Sharing and Third Parties
+
+   * “No Cheating” does not share any data with third parties.
+   * No data is collected for advertising, analytics, or marketing purposes.
+   * The app contains no third-party SDKs that collect user information.
+
+8. User Control
+
+   Users (teachers) fully control:
+
+   * When to create, start, or close a quiz session.
+   * When to export or delete quiz data.
+   * When to enable or disable Bluetooth or Wi-Fi discovery.
+
+9. Updates to This Policy
+
+   We may update this Policy to reflect improvements or changes in app functionality. Any updates will be made available through the same page or app listing.
+
+10. Contact Information
+
+   If you have any questions or concerns regarding this policy or your data privacy, please contact us at:
+📧 lloyd_combes@yahoo.com
