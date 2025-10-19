@@ -24,10 +24,10 @@ Effective Date: October 20, 2025
 
    To function properly, “No Cheating” requests the following permissions:
 
-   Permission				                        Purpose												                                                                  Data Usage
+             Permission				                                            Purpose												                                     Data Usage
    Location (Approximate or Precise)	      Enables wireless discovery of nearby devices for secure offline sharing and quiz syncing.	      Used locally only; 	not stored or transmitted.
-   Nearby Devices (Wi-Fi & Bluetooth)	      Allows offline device-to-device communication between teachers and students.			              Used only during quiz sessions; no data sent online.
-   Storage / File Access (if applicable)	  Enables export and saving of quiz results or reports in Excel format.				                    Files are stored locally on device only.
+   Nearby Devices (Wi-Fi & Bluetooth)	      Allows offline device-to-device communication between teachers and students.			            Used only during quiz sessions; no data sent online.
+   Storage / File Access (if applicable)	   Enables export and saving of quiz results or reports in Excel format.				               Files are stored locally on device only.
 
 4. Data Storage and Security
 
